@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+It's Lissandra here, read more to learn about what I'm doing & how to reach me. 
 <!--
 **LissandraF/LissandraF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
